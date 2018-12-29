@@ -87,5 +87,10 @@ The following arguments are available:
 For obtaining samples and interpolating between senteces, inference.py can be used.
 ```
 python3 inference.py -c $CHECKPOINT -n $NUM_SAMPLES
+
+
+python inference.py -c /home/acer/PycharmProjects/VAE_MODEL/Sentence-VAE-master/bin/2018-Sep-28-13:17:52/E9.pytorch -n 10
+
+
 ```
 
